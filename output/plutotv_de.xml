@@ -9946,6 +9946,11 @@
         <desc>Die Sendung zeigt Spiele des Pokalwettbewerbs im deutschen Vereinsbasketball der Herren.</desc>
         <icon src="https://images.pluto.tv/series/68a60ffb9889a990edd7c0d9/tile_1772104471160.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6866525c8a412a0e95c438b4" start="20260506014200 +0000" stop="20260506045500 +0000">
+        <title>TTBL: Tischtennis Bundesliga</title>
+        <desc>Am Mittwoch, dem 15. April 2026, empfängt der 1. FC Saarbrücken-TT den SV Werder Bremen in der Tischtennis-Bundesliga. Die Partie des Hauptrunden-Spieltags beginnt um 19:00 Uhr. Die Übertragung startet um 18:40 Uhr.</desc>
+        <icon src="https://images.pluto.tv/series/68da7cefd70c07ace87bb7ba/tile_1763055089174.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6870c9333ffa5e0c914e9205" start="20260505183000 +0000" stop="20260505190000 +0000">
         <title>Tennis Channel</title>
         <desc>Hier gibt’s ganz großes Tennis! Und das rund um die Uhr. Genieße Hunderte Stunden Live-Matches, Highlights, legendäre Spiele, exklusive Features, Dokumentationen und mehr – dem Sport näher als je zuvor.</desc>
@@ -29311,6 +29316,11 @@ steuern dem gemeinsamen Höhepunkt entgegen.</desc>
         <title>Serie A Women</title>
         <desc>Übertragung der obersten Fußball-Liga, Serie A, der Frauen.</desc>
         <icon src="https://images.pluto.tv/series/655f691009a89300133b2d3f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64afe50c5dc16600087f3227" start="20260506105200 +0000" stop="20260506110900 +0000">
+        <title>LET'S GO BALLIN'</title>
+        <desc>Es wird anhand von Spielerinnen und Vereinen gezeigt, wo der Frauenbasketball in Deutschland steht.</desc>
+        <icon src="https://images.pluto.tv/series/68daa7bef1f80c815130f3c6/tile_1759164415984.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64b67f0424ade50008a3be17" start="20260506060000 +0000" stop="20260506093000 +0000">
         <title>Darts</title>

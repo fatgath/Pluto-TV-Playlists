@@ -3708,32 +3708,32 @@ BARTOLOMÉO LE CANNIBALE !</title>
     <programme channel="686e74c777ed3360cb6908bf" start="20260505140200 +0000" stop="20260505145500 +0000">
         <title>Mayday : Catastrophe Aérienne</title>
         <desc>Le vol 2120 de Nigeria Airways se transforme en boule de feu, tuant les 261 personnes à bord.</desc>
-        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777987944373.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777993478928.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="686e74c777ed3360cb6908bf" start="20260505145500 +0000" stop="20260505154800 +0000">
         <title>Mayday : Catastrophe Aérienne</title>
         <desc>Le vol 394 de Partnair vole à 22 000 pieds lorsqu’il commence soudainement à plonger vers la mer.</desc>
-        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777987944373.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777993478928.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="686e74c777ed3360cb6908bf" start="20260505154800 +0000" stop="20260505164100 +0000">
         <title>Mayday : Catastrophe Aérienne</title>
         <desc>Le vol 1549 de United Airlines entre en collision avec un vol d’oiseaux.</desc>
-        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777987944373.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777993478928.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="686e74c777ed3360cb6908bf" start="20260505164100 +0000" stop="20260505173500 +0000">
         <title>Mayday : Catastrophe Aérienne</title>
         <desc>Un opérateur radar militaire identifie par erreur un avion civil approchant comme un F-14 ennemi.</desc>
-        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777987944373.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777993478928.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="686e74c777ed3360cb6908bf" start="20260505173500 +0000" stop="20260505182800 +0000">
         <title>Mayday : Catastrophe Aérienne</title>
         <desc>Le vol 101 se prépare au décollage dans les eaux au large de Miami Beach, en Floride.</desc>
-        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777987944373.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777993478928.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="686e74c777ed3360cb6908bf" start="20260505182800 +0000" stop="20260505192100 +0000">
         <title>Mayday : Catastrophe Aérienne</title>
         <desc>Le vol 103 de Pan Am explose soudainement dans le ciel au-dessus de Lockerbie, en Écosse.</desc>
-        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777987944373.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777993478928.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="68b17414c23bb80b3c1d5bb5" start="20260505142020 +0000" stop="20260505144427 +0000">
         <title>Doraemon</title>
@@ -7532,6 +7532,11 @@ BARTOLOMÉO LE CANNIBALE !</title>
     </programme>
     <programme channel="612e044c970e6f00083bcf3b" start="20260505210400 +0000" stop="20260505225100 +0000">
         <title>Y'a que la vérité qui compte: Episode 88</title>
+        <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
+        <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1776244321063.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612e044c970e6f00083bcf3b" start="20260505225100 +0000" stop="20260506010400 +0000">
+        <title>Y'a que la vérité qui compte: Episode 63</title>
         <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
         <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1776244321063.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
@@ -11631,6 +11636,11 @@ Nobita, Shizuka et Doraemon sauvent une vieille poupée des griffes d’un chien
         <desc>Suite à un tremblement de terre survenu à Tokyo, la température de l'Océan Pacifique grimpe dangereusement. Une tempête impressionnante, puis un tsunami s'abattent sur la ville. Des survivants vont tenter de transmettre le code 252, synonyme de secours.</desc>
         <icon src="https://images.pluto.tv/series/60196c805777bb001aaa196c/tile_1777902481580.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="62f3e2d000418d00070f7dbc" start="20260506025244 +0000" stop="20260506044044 +0000">
+        <title>La Bataille de Jangsari</title>
+        <desc>1950, guerre de Corée. Une unité de guérilla commandée par le capitaine Lee Myeong-joon navigue en direction de Jangsari à bord du navire Moonsanho. Leur mission est créer une attaque de diversion pour permettre la véritable attaque, le lendemain.</desc>
+        <icon src="https://images.pluto.tv/series/63315a8448fe5f0013fabe76/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="62f3ece7b09fd6000783bfb9" start="20260505221042 +0000" stop="20260505223242 +0000">
         <title>Un Gars Une Fille: Le métro /  Dans un bar /  Au spa</title>
         <desc>Le métro /  Dans un bar /  Au spa</desc>
@@ -13109,32 +13119,32 @@ SANJI CONTRE DOFLAMINGO !</title>
     <programme channel="686e74c777ed3360cb6908bf" start="20260505220100 +0000" stop="20260505225500 +0000">
         <title>Mayday : Catastrophe Aérienne</title>
         <desc>Un petit problème mécanique se transforme rapidement en une véritable situation d’urgence.</desc>
-        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777987944373.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777993478928.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="686e74c777ed3360cb6908bf" start="20260505225500 +0000" stop="20260505234800 +0000">
         <title>Mayday : Catastrophe Aérienne</title>
         <desc>Cruel Skies revient sur quatre catastrophes et quasi-accidents aériens majeurs.</desc>
-        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777987944373.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777993478928.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="686e74c777ed3360cb6908bf" start="20260505234800 +0000" stop="20260506004100 +0000">
         <title>Mayday : Catastrophe Aérienne</title>
         <desc>Les enquêteurs soupçonnent d’abord la présence d’une bombe à bord du vol 2574 de Continental Express.</desc>
-        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777987944373.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777993478928.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="686e74c777ed3360cb6908bf" start="20260506004100 +0000" stop="20260506013500 +0000">
         <title>Mayday : Catastrophe Aérienne</title>
         <desc>Une bombe a explosé et l’avion a subi d’importants dégâts.</desc>
-        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777987944373.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777993478928.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="686e74c777ed3360cb6908bf" start="20260506013500 +0000" stop="20260506022800 +0000">
         <title>Mayday : Catastrophe Aérienne</title>
         <desc>Quelques instants après le décollage, les pilotes du vol 301 de Birgenair sont bombardés d’alarmes.</desc>
-        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777987944373.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777993478928.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="686e74c777ed3360cb6908bf" start="20260506022800 +0000" stop="20260506032100 +0000">
         <title>Mayday : Catastrophe Aérienne</title>
         <desc>Le vol 611 de China Airlines disparaît soudainement des radars.</desc>
-        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777987944373.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1777993478928.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="68b17414c23bb80b3c1d5bb5" start="20260505221926 +0000" stop="20260505224327 +0000">
         <title>Doraemon</title>

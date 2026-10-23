@@ -6206,6 +6206,11 @@ Entrega especial + La vida de un perro</desc>
         <desc>Nathalie Perros, una bombera, muere de un disparo en acto de servicio. Alice Nevers investiga el caso.</desc>
         <icon src="https://images.pluto.tv/series/67408a2871cc44001393acbb/tile_1774007280938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="66d71f8ee5de930008016f83" start="20261024053322 +0000" stop="20261024072130 +0000">
+        <title>Alice Nevers</title>
+        <desc>La jueza Alice Nevers y el teniente Romance se desplazan al bosque de Rambouillet, escenario de un macabro descubrimiento: un hombre ha sido asesinado a golpes con un tronco.</desc>
+        <icon src="https://images.pluto.tv/series/67408a2871cc44001393acbb/tile_1774007280938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6745f0643a61d40008a61510" start="20261024004631 +0000" stop="20261024013532 +0000">
         <title>Rookie Blue</title>
         <desc>La visita de Chris cambia cuando secuestran a su hijo al cuidado de Andy y Nick. Todos se unen para encontrarlo. Pero su vuelta no libra a Chris de una revelación impactante.</desc>
@@ -21062,6 +21067,11 @@ Batalla campal + Huevo y Bean</desc>
         <title>La marca del lobo</title>
         <desc>Hace diez años, una muchacha presencia el asesinato de su familia. La joven sobrevivió adentrándose en el bosque y convirtiéndose en algo que los cazadores nunca hallarían: un lobo. Ahora, a pesar de que vive al otro lado del mundo, ella sigue huyendo.</desc>
         <icon src="https://images.pluto.tv/series/5f4eac6edb45a1001a794f71/tile_1769024522454.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6267d4d1fb694f0007a6af0e" start="20261024173038 +0000" stop="20261024191546 +0000">
+        <title>El intruso</title>
+        <desc>Tras un trágico accidente, un hombre se convierte en el objetivo de la peligrosa obsesión de otro testigo.</desc>
+        <icon src="https://images.pluto.tv/series/69ef7e4f24d9b7beb5b68bc8/tile_1777303136974.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6304f530440dc90007f514d3" start="20261024124200 +0000" stop="20261024143800 +0000">
         <title>Agatha Christie: Poirot ES: Muerte en las nubes</title>

@@ -18511,15 +18511,10 @@ chases a girl across the yard.</desc>
         <desc>A young woman attends evening church services, then disappears. When her abandoned car is found, the tank is empty and a gas can she kept in her trunk for emergencies is missing.</desc>
         <icon src="https://images.pluto.tv/series/5b6cb116a3d878f67e4fa3fa/tile_1790638923676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5bee1a7359ee03633e780238" start="20261024013000 +0000" stop="20261024213000 +0000">
+    <programme channel="5bee1a7359ee03633e780238" start="20261024013000 +0000" stop="20261024053000 +0000">
         <title>Dog the Bounty Hunter</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/featuredImage_1767736765611.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
-    <programme channel="5bee1a7359ee03633e780238" start="20261024213000 +0000" stop="20261024223000 +0000">
-        <title>Dog the Bounty Hunter</title>
-        <desc>The hunt for an elusive and clever criminal takes Dog through the world of a bantam fighting cock, a pregnant daughter, and a jungle safe house go together. And don't forget the mopeds as well as a group of hostile squatters on government land!</desc>
-        <icon src="https://images.pluto.tv/series/5a5657654bc625a96b82d6f4/tile_1781736121559.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5c37d6712de254456f7ec340" start="20261024010000 +0000" stop="20261024020000 +0000">
         <title>Cold Case Files</title>
@@ -80377,7 +80372,12 @@ himself.</desc>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5bee1a7359ee03633e780238" start="20261024213000 +0000" stop="20261025013000 +0000">
+    <programme channel="5bee1a7359ee03633e780238" start="20261024213000 +0000" stop="20261024223000 +0000">
+        <title>Dog the Bounty Hunter</title>
+        <desc>The hunt for an elusive and clever criminal takes Dog through the world of a bantam fighting cock, a pregnant daughter, and a jungle safe house go together. And don't forget the mopeds as well as a group of hostile squatters on government land!</desc>
+        <icon src="https://images.pluto.tv/series/5a5657654bc625a96b82d6f4/tile_1781736121559.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5bee1a7359ee03633e780238" start="20261024223000 +0000" stop="20261025013000 +0000">
         <title>Dog the Bounty Hunter</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/featuredImage_1767736765611.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
